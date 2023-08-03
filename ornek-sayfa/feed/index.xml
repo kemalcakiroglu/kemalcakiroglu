@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Örnek sayfa yazısına yapılan yorumlar	</title>
-	<atom:link href="/ornek-sayfa/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="httpkemalcakiroglu.github.io/kemalcakiroglu//ornek-sayfa/feed/" rel="self" type="application/rss+xml" />
+	<link>httpkemalcakiroglu.github.io/kemalcakiroglu/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Aug 2023 07:41:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	kemalcakiroglu için yorumlar	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="httpkemalcakiroglu.github.io/kemalcakiroglu//comments/feed/" rel="self" type="application/rss+xml" />
+	<link>httpkemalcakiroglu.github.io/kemalcakiroglu/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Aug 2023 07:41:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Merhaba dünya! yazısına Bir WordPress yorumcusu tarafından yapılan yorumlar		</title>
-		<link>/2023/08/03/merhaba-dunya/#comment-1</link>
+		<link>httpkemalcakiroglu.github.io/kemalcakiroglu//2023/08/03/merhaba-dunya/#comment-1</link>
 
 		<dc:creator><![CDATA[Bir WordPress yorumcusu]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2023 07:41:27 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">httpkemalcakiroglu.github.io/kemalcakiroglu//?p=1#comment-1</guid>
 
 					<description><![CDATA[Merhaba, bu bir yorumdur.
 Yorum moderasyonuna başlamak, düzenlemek ve silmek için lütfen yönetim panelindeki yorumlar bölümünü ziyaret edin.

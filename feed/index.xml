@@ -9,8 +9,8 @@
 
 <channel>
 	<title>kemalcakiroglu</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="httpkemalcakiroglu.github.io/kemalcakiroglu//feed/" rel="self" type="application/rss+xml" />
+	<link>httpkemalcakiroglu.github.io/kemalcakiroglu/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Aug 2023 07:41:27 +0000</lastBuildDate>
 	<language>tr</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Merhaba dünya!</title>
-		<link>/2023/08/03/merhaba-dunya/</link>
-					<comments>/2023/08/03/merhaba-dunya/#comments</comments>
+		<link>httpkemalcakiroglu.github.io/kemalcakiroglu//2023/08/03/merhaba-dunya/</link>
+					<comments>httpkemalcakiroglu.github.io/kemalcakiroglu//2023/08/03/merhaba-dunya/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2023 07:41:27 +0000</pubDate>
 				<category><![CDATA[Genel]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">httpkemalcakiroglu.github.io/kemalcakiroglu//?p=1</guid>
 
 					<description><![CDATA[WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!]]></description>
 										<content:encoded><![CDATA[
 <p>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/08/03/merhaba-dunya/feed/</wfw:commentRss>
+					<wfw:commentRss>httpkemalcakiroglu.github.io/kemalcakiroglu//2023/08/03/merhaba-dunya/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
